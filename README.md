@@ -71,7 +71,7 @@ Go 언어로 PS(Problem Solving) 하면서 자신감을 키워봅시다. 🧐
 
 <br>
 
-Clean Code 너무 유명한 책이죠. 아래의 링크는 Clean Code의 내용을 어떻게 Go 녹여낼 수 있을까? 고민한 아티클 링크입니다.
+Clean Code 너무 유명한 책이죠. 아래의 링크는 Clean Code의 내용을 어떻게 Go 녹여낼 수 있을까? 고민한 아티클입니다.
 
 ### [Clean Go Code](https://github.com/Pungyeon/clean-go-article?tab=readme-ov-file#Test-Driven-Development)
 
