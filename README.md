@@ -1,3 +1,7 @@
+♻ **`해당 Repository는 Go 생태계의 전반적인 내용을 심도 있게 다루지는 않지만, 아래에 제시된 내용들은 팀워크와 협업에 있어 필수적인 기본 사항입니다.`**
+
+****
+
 # HongJungWan-goRoad
 
 ### 𝙄𝙛 𝙮𝙤𝙪'𝙧𝙚 𝙣𝙚𝙬 𝙩𝙤 𝙂𝙤(𝙂𝙞𝙣/𝙂𝙊𝙍𝙈), 𝙝𝙚𝙧𝙚'𝙨 𝙖 𝙧𝙤𝙖𝙙𝙢𝙖𝙥 🛫
@@ -20,7 +24,7 @@ Go 생태계는 Java & Spring 생태계처럼 학습에 있어 바이블이 없�
 
 #### [포프 - 주니어니까 괜찮아](https://www.youtube.com/watch?v=xrtrSdybVmE&list=PLW_uvsSPlijvEGUPKXOTPaJFlSAZ12Tfy)
 
-#### [최범균 - 못 하지 않는 개발자 되기, 신입용](https://www.youtube.com/watch?v=wogrRJlqUFw)
+#### [포프 - 개발 경력 3년이면](https://www.youtube.com/watch?v=ie2epvAsAGE&list=PLW_uvsSPlijvEGUPKXOTPaJFlSAZ12Tfy&index=2)
 
 #### [포프 - 질문하는 법](https://www.youtube.com/watch?v=LjcMes6LJHs)
 
@@ -44,10 +48,9 @@ Go 생태계는 Java & Spring 생태계처럼 학습에 있어 바이블이 없�
 | **#8, 슬라이스, 메서드**        | [작성 중...]()                                                                                                                                                  |
 | **#9, 인터페이스**            | [작성 중...]()                                                                                                                                                  |
 | **#10, 함수 - 고급**         | [작성 중...]()                                                                                                                                                  |
-| **#11, 자료 구조**           | [작성 중...]()                                                                                                                                                  |
-| **#12, 에러 반환**           | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%97%90%EB%9F%AC_%EB%B0%98%ED%99%98.md)                                                |
-| **#13, 고루틴과 동시성 프로그래밍**  | [작성 중...]()                                                                                                                                                  |
-| **#14, 채널**              | [작성 중...]()                                                                                                                                                  |
+| **#11, 에러 반환**           | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%97%90%EB%9F%AC_%EB%B0%98%ED%99%98.md)                                                |
+| **#12, 고루틴**             | [완료]()                                                                                                                                                       |
+| **#13, 채널**              | [작성 중...]()                                                                                                                                                  |
 
 <br><br>
 
