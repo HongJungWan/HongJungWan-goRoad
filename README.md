@@ -1,6 +1,6 @@
-♻ **`해당 Repository는 Go 생태계의 전반적인 내용을 심도 있게 다루지는 않지만, 아래에 제시된 내용들은 팀워크와 협업에 있어 필수적인 기본 사항입니다.`**
+♻ `해당 Repository는 Go 생태계의 전반적인 내용을 심도 있게 다루지는 않지만, 아래에 제시된 내용들은 팀워크와 협업에 있어 필수적인 기본 사항입니다.`
 
-****
+<br>
 
 # HongJungWan-goRoad
 
@@ -49,7 +49,7 @@ Go 생태계는 Java & Spring 생태계처럼 학습에 있어 바이블이 없�
 | **#9, 인터페이스**            | [작성 중...]()                                                                                                                                                  |
 | **#10, 함수 - 고급**         | [작성 중...]()                                                                                                                                                  |
 | **#11, 에러 반환**           | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%97%90%EB%9F%AC_%EB%B0%98%ED%99%98.md)                                                |
-| **#12, 고루틴**             | [완료]()                                                                                                                                                       |
+| **#12, 고루틴**             | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EA%B3%A0%EB%A3%A8%ED%8B%B4.md)                                                                                                                                                       |
 | **#13, 채널**              | [작성 중...]()                                                                                                                                                  |
 
 <br><br>
