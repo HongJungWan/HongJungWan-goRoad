@@ -97,6 +97,14 @@ Clean Code 너무 유명한 책이죠. 아래의 링크는 Clean Code의 내용�
 
 ### [Clean Go Code](https://github.com/Pungyeon/clean-go-article?tab=readme-ov-file#Test-Driven-Development)
 
+<br>
+
+문법을 익히는 단계에서는 다소 벅찰 수 있는 책이지만 Deep Dive에 있어서는 적절한 선택입니다.
+
+### Cloud Native Go
+
+<img src="image/cloud_natvie_go.png" width="200">
+
 <br><br>
 
 ### STEP #4, GORM
