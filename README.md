@@ -46,7 +46,7 @@ Go 생태계는 Java & Spring 생태계처럼 학습에 있어 바이블이 없�
 | **#10, 함수 - 고급**         | [작성 중...]()                                                                                                                                                  |
 | **#11, 에러 반환**           | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%97%90%EB%9F%AC_%EB%B0%98%ED%99%98.md)                                                |
 | **#12, 고루틴**             | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EA%B3%A0%EB%A3%A8%ED%8B%B4.md)                                                          |
-| **#13, 채널**              | [작성 중...]()                                                                                                                                                  |
+| **#13, 채널**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%B1%84%EB%84%90.md)                                                                                                                                                  |
 
 <br><br>
 
