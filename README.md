@@ -60,6 +60,17 @@ Go 생태계는 Java & Spring 생태계처럼 학습에 있어 바이블이 없�
 
 ### [쉽고 빠르게 끝내는 GO언어 프로그래밍 핵심 기초 입문 과정](https://www.inflearn.com/course/go%EC%96%B8%EC%96%B4#curriculum)
 
+<br><br>
+
+인프런 강의는 너무 무겁고, 궁금한 목차만 듣고 싶다면 아래의 링크를 참고합니다.
+
+### [tech school/simple bank](https://github.com/techschool/simplebank?tab=readme-ov-file)
+
+<br><br>
+
+아티클을 참고 해야된다면 아래의 링크를 참고합니다.
+
+### [Go 101](https://go101.org/article/101.html)
 
 <br><br>
 
