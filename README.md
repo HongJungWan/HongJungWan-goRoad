@@ -54,7 +54,7 @@
 | **#6, 문자열**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EB%AC%B8%EC%9E%90%EC%97%B4.md)                                                                                                                                                  |
 | **#7, 패키지**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%ED%8C%A8%ED%82%A4%EC%A7%80.md)                                                          |
 | **#8, 슬라이스, 메서드**        | [작성 중...]()                                                                                                                                                  |
-| **#9, 인터페이스**            | [작성 중...]()                                                                                                                                                  |
+| **#9, 인터페이스**            | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)                                                                                                                                                  |
 | **#10, 함수 - 고급**         | [작성 중...]()                                                                                                                                                  |
 | **#11, 에러 반환**           | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%97%90%EB%9F%AC_%EB%B0%98%ED%99%98.md)                                                |
 | **#12, 고루틴**             | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EA%B3%A0%EB%A3%A8%ED%8B%B4.md)                                                          |
@@ -116,7 +116,7 @@ Go 언어로 PS(Problem Solving) 하면서 자신감을 키워봅시다. 🧐
 
 <br><br>
 
-Clean Code 너무 유명한 책이죠. 아래의 링크는 Clean Code의 내용을 어떻게 Go 녹여낼 수 있을까? 고민한 아티클입니다.
+Clean Code 너무 유명한 책이죠. 아래의 링크는 Clean Code의 내용을 어떻게 Go에 녹여낼 수 있을까? 고민한 아티클입니다.
 
 ### [Clean Go Code](https://github.com/Pungyeon/clean-go-article?tab=readme-ov-file#Test-Driven-Development)
 
@@ -134,7 +134,7 @@ Clean Code 너무 유명한 책이죠. 아래의 링크는 Clean Code의 내용�
 
 돈이 아깝다는 생각이 든다면, 존중합니다.
 
-전 개발에 투자를 아끼지 않습니다.
+다만, Gopher는 개발에 투자를 아끼지 않습니다.
 
 ### Comento 유료 강의
 
