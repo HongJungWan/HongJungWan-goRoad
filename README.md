@@ -4,9 +4,7 @@
 
 반갑습니다.
 
-Go 생태계는 Java & Spring 생태계처럼 학습에 있어 바이블이 없습니다. 예를 들어 (김영한 강사)라던가, (백기선 강사)라던가 그 외 수많은 인프런 강의, 패스트 캠퍼스 스터디, 유데미 등 다양한 학습 플랫폼을 비롯해 Velog, Tistory 기술 블로그처럼 가공되어 있는 자료 중 쓸만한 자료를 찾기 쉽지 않습니다.  🤔
-
-상황이 녹록지는 않지만 주어진 환경에서 최고의 제품을 만들기 위해 함께 학습해 봅시다.
+주어진 환경에서 최고의 제품을 만들기 위해 함께 학습해 봅시다.
 
 <br><br>
 
@@ -18,11 +16,25 @@ Go 생태계는 Java & Spring 생태계처럼 학습에 있어 바이블이 없�
 
 <br>
 
+* 경력만 많고 실력은 주니어 수준이 아닌가 반성해 봅니다.
+
+
+* 주니어니까 괜찮다는 마음가짐을 가진 개발자가 아닌가 반성해 봅니다.
+
+
+* 남 탓, 환경 탓, 기술 탓을 하는 개발자가 아닌가 반성해 봅니다.
+
+<br>
+
 #### [포프 - 주니어니까 괜찮아](https://www.youtube.com/watch?v=xrtrSdybVmE&list=PLW_uvsSPlijvEGUPKXOTPaJFlSAZ12Tfy)
 
 #### [포프 - 개발 경력 3년이면](https://www.youtube.com/watch?v=ie2epvAsAGE&list=PLW_uvsSPlijvEGUPKXOTPaJFlSAZ12Tfy&index=2)
 
 #### [포프 - 질문하는 법](https://www.youtube.com/watch?v=LjcMes6LJHs)
+
+#### [포프 - 남이 날 주니어 프로그래머로보는 이유](https://www.youtube.com/watch?v=UFbHFPiR35k)
+
+#### [포프 - 도메인 지식만 많은 넌 주니어](https://www.youtube.com/watch?v=uwbL-JljfAc)
 
 <br><br>
 
@@ -96,25 +108,37 @@ Go 언어로 PS(Problem Solving) 하면서 자신감을 키워봅시다. 🧐
 
 ### [Effective-Go summary](https://github.com/HongJungWan/effective-go/blob/master/SUMMARY.md)
 
-<br>
+<br><br>
 
 아래 링크는 Go 학습 후, Deep Dive를 위해 한번 훑어 보면 좋은 질문들 입니다.
 
 ### [Golang Interview Questions](https://www.interviewbit.com/golang-interview-questions/)
 
-<br>
+<br><br>
 
 Clean Code 너무 유명한 책이죠. 아래의 링크는 Clean Code의 내용을 어떻게 Go 녹여낼 수 있을까? 고민한 아티클입니다.
 
 ### [Clean Go Code](https://github.com/Pungyeon/clean-go-article?tab=readme-ov-file#Test-Driven-Development)
 
-<br>
+<br><br>
 
 문법을 익히는 단계에서는 다소 벅찰 수 있는 책이지만 Deep Dive에 있어서는 적절한 선택입니다.
 
 ### Cloud Native Go
 
 <img src="image/cloud_natvie_go.png" width="200">
+
+<br><br>
+
+50만원 상당의 유료 강의입니다.
+
+돈이 아깝다는 생각이 든다면, 존중합니다.
+
+전 개발에 투자를 아끼지 않습니다.
+
+### Comento 유료 강의
+
+#### [Golang으로 클린 코드 만들고, 고성능 데이터 처리 SW 개발](https://comento.kr/class/pt/content/golang%EC%9C%BC%EB%A1%9C-%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EA%B3%A0%EC%84%B1%EB%8A%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/135)
 
 <br><br>
 
@@ -131,11 +155,5 @@ Clean Code 너무 유명한 책이죠. 아래의 링크는 Clean Code의 내용�
 어중간한 블로그 아티클 보다 공식 문서가 더 좋습니다.
 
 ### [Gin 공식 문서](https://gin-gonic.com/ko-kr/docs/examples/)
-
-<br><br>
-
-### STEP #6, Application(API-Server)을 만들어 보자!
-
-3월 말 🤔에 서비스 런칭 후, 같이 API 20개 정도의 Application을 만들어 봅시다.
 
 <br><br>
