@@ -80,6 +80,14 @@
 
 <br><br>
 
+아래는 한국에서 Go 바이블인 터커님의 유튜브 링크입니다.
+
+### [Tuker의 Go 언어 프로그래밍 (완)](https://www.youtube.com/watch?v=KBdz5c-0t1w&list=PLy-g2fnSzUTBHwuXkWQ834QHDZwLx6v6j)
+
+### [Tucker의 Go로 배우는 자료구조와 알고리즘](https://www.youtube.com/playlist?list=PLy-g2fnSzUTBTLpaVjy2-xesCbai9WIuI)
+
+<br><br>
+
 아티클을 참고 해야된다면 아래의 링크를 참고합니다.
 
 ### [Go 101](https://go101.org/article/101.html)
