@@ -44,21 +44,22 @@
 
 아래 목차를 기준으로 자율적으로 학습합니다.
 
-| 제목                       | 링크                                                                                                                                                           |
+| 제목                       | 정리                                                                                                                                                           |
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **#1, 프로그래밍 언어 - 개요**    | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4_%EA%B0%9C%EC%9A%94.md)  |
 | **#2, 변수, 연산자, 함수 - 기본** | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EB%B3%80%EC%88%98_%EC%97%B0%EC%82%B0%EC%9E%90_%ED%95%A8%EC%88%98_%EA%B8%B0%EB%B3%B8.md) |
 | **#3, 상수, if, for, 배열**  | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%83%81%EC%88%98_if_for_%EB%B0%B0%EC%97%B4.md)                                         |
-| **#4, 구조체**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EA%B5%AC%EC%A1%B0%EC%B2%B4.md)                                                                                                                                                  |
-| **#5, 포인터**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%ED%8F%AC%EC%9D%B8%ED%84%B0.md)                                                                                                                                                       |
-| **#6, 문자열**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EB%AC%B8%EC%9E%90%EC%97%B4.md)                                                                                                                                                  |
+| **#4, 구조체**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EA%B5%AC%EC%A1%B0%EC%B2%B4.md)                                                          |
+| **#5, 포인터**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%ED%8F%AC%EC%9D%B8%ED%84%B0.md)                                                          |
+| **#6, 문자열**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EB%AC%B8%EC%9E%90%EC%97%B4.md)                                                          |
 | **#7, 패키지**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%ED%8C%A8%ED%82%A4%EC%A7%80.md)                                                          |
-| **#8, 슬라이스, 메서드**        | [작성 중...]()                                                                                                                                                  |
-| **#9, 인터페이스**            | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)                                                                                                                                                  |
-| **#10, 함수 - 고급**         | [작성 중...]()                                                                                                                                                  |
-| **#11, 에러 반환**           | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%97%90%EB%9F%AC_%EB%B0%98%ED%99%98.md)                                                |
-| **#12, 고루틴**             | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EA%B3%A0%EB%A3%A8%ED%8B%B4.md)                                                          |
-| **#13, 채널**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%B1%84%EB%84%90.md)                                                                                                                                                  |
+| **#8, 슬라이스**        | [완료]()                                                                                                                                                       |
+| **#9, 메서드**              | [작성 중...]()                                                                                                                                                  |
+| **#10, 인터페이스**           | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)                                        |
+| **#11, 함수 - 고급**         | [작성 중...]()                                                                                                                                                  |
+| **#12, 에러 반환**           | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%97%90%EB%9F%AC_%EB%B0%98%ED%99%98.md)                                                |
+| **#13, 고루틴**             | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EA%B3%A0%EB%A3%A8%ED%8B%B4.md)                                                          |
+| **#14, 채널**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%B1%84%EB%84%90.md)                                                                   |
 
 <br><br>
 
