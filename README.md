@@ -16,7 +16,7 @@
 
 <br>
 
-* 경력만 많고 실력은 주니어 수준이 아닌가 반성해 봅니다.
+* 시간이 지난다고 해서 실력이 저절로 향상되지는 않습니다.
 
 
 * 주니어니까 괜찮다는 마음가짐을 가진 개발자가 아닌가 반성해 봅니다.
@@ -53,7 +53,7 @@
 | **#5, 포인터**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%ED%8F%AC%EC%9D%B8%ED%84%B0.md)                                                          |
 | **#6, 문자열**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EB%AC%B8%EC%9E%90%EC%97%B4.md)                                                          |
 | **#7, 패키지**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%ED%8C%A8%ED%82%A4%EC%A7%80.md)                                                          |
-| **#8, 슬라이스**        | [완료]()                                                                                                                                                       |
+| **#8, 슬라이스**        | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4.md)                                                                                                                                                       |
 | **#9, 메서드**              | [작성 중...]()                                                                                                                                                  |
 | **#10, 인터페이스**           | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)                                        |
 | **#11, 함수 - 고급**         | [작성 중...]()                                                                                                                                                  |
