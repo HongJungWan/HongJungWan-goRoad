@@ -131,6 +131,16 @@ Clean Code 너무 유명한 책이죠. 아래의 링크는 Clean Code의 내용�
 
 <br><br>
 
+단순히 Go 문법뿐만 아니라 네트워크 프로그래밍에 필요한 제반 지식을 학습할 수 있습니다.
+
+네트워크 기본기는 매우 중요합니다..
+
+### Go 언어를 활용한 네트워크 프로그래밍
+
+<img src="image/go_network_book.png" width="200">
+
+<br><br>
+
 문법을 익히는 단계에서는 다소 벅찰 수 있는 책이지만 Deep Dive에 있어서는 적절한 선택입니다.
 
 ### Cloud Native Go
