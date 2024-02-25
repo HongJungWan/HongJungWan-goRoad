@@ -54,7 +54,7 @@
 | **#6, 문자열**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EB%AC%B8%EC%9E%90%EC%97%B4.md)                                                          |
 | **#7, 패키지**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%ED%8C%A8%ED%82%A4%EC%A7%80.md)                                                          |
 | **#8, 슬라이스**        | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4.md)                                                                                                                                                       |
-| **#9, 메서드**              | [작성 중...]()                                                                                                                                                  |
+| **#9, 메서드**              | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EB%A9%94%EC%84%9C%EB%93%9C.md)                                                                                                                                                  |
 | **#10, 인터페이스**           | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)                                        |
 | **#11, 함수 - 고급**         | [작성 중...]()                                                                                                                                                  |
 | **#12, 에러 반환**           | [완료](https://github.com/HongJungWan/HongJungWan-goRoad/blob/main/go/%EC%97%90%EB%9F%AC_%EB%B0%98%ED%99%98.md)                                                |
